@@ -29,12 +29,12 @@ Para ejecutar el programa, sigue estos pasos:
 
 ```bash
 python AFD.py +
-
+```
 El programa imprimirá el token correspondiente:
-
+```
 bash
 Copy code
-SUMA
+SUMA```
 2. Gramática regular en LEX para expresiones lambda en Python
 Descripción
 Se implementa una gramática regular en LEX que reconoce expresiones lambda en Python, como:
