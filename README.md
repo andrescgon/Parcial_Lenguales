@@ -41,16 +41,18 @@ Descripción
 Se implementa una gramática regular en LEX que reconoce expresiones lambda en Python, como:
 
 python
-Copy code
+```bash
 square = lambda x: x ** 2
 print(square(3))
+```
 El programa recibe un archivo de texto como parámetro y verifica si la expresión es válida.
 
 Ejecución
 Asegúrate de tener flex instalado.
 Compila el programa:
-bash
-Copy code
+```bash
+
 flex lambda.l
 gcc lex.yy.c -o a.out
+```bash
 Ejecuta el programa con un archivo de texto como entrada:
