@@ -1,4 +1,4 @@
-#Andres Castro Gonzalez
+# Andres Castro Gonzalez
 
 # Parcial 1. Grupo B 2024-1 - Lenguajes de Programación
 
