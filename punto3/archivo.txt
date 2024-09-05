@@ -1,0 +1,8 @@
+Este es un archivo de texto de ejemplo.
+En este archivo, la palabra clave que vamos a buscar es 'arroz'.
+Vamos a contar cuántas veces aparece la palabra 'arroz' en este archivo.
+Arroz puede aparecer varias veces.
+Por ejemplo, arroz puede estar al inicio de una oración.
+También podría estar en medio de una oración, como aquí: arroz.
+Finalmente, vamos a ver si arroz aparece al final.
+Arroz es una palabra clave que estamos buscando.
