@@ -29,6 +29,7 @@ Para ejecutar el programa, sigue estos pasos:
 
 ```bash
 python AFD.py +
+```
 El programa imprimirá el token correspondiente:
 
 bash
