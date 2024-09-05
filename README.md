@@ -54,5 +54,5 @@ Compila el programa:
 
 flex lambda.l
 gcc lex.yy.c -o a.out
-```bash
+```
 Ejecuta el programa con un archivo de texto como entrada:
