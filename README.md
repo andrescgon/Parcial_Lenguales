@@ -1,6 +1,5 @@
+#Andres Castro Gonzalez
 
-markdown
-Copy code
 # Parcial 1. Grupo B 2024-1 - Lenguajes de Programación
 
 Este repositorio contiene las soluciones para el parcial de la asignatura **Lenguajes de Programación**. A continuación, se describen los pasos para ejecutar cada uno de los programas requeridos.
